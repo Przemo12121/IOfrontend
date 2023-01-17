@@ -36,7 +36,6 @@ export const Header = () => {
       gap={'12px'}
       boxShadow={4}
     >
-      <Typography variant="project">Projekt Bazy Danych 2 - Portal informacyjny</Typography>
       { user &&
         <>
           <Box
